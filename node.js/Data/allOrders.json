@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": "123 Main St, City, Country",
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1
+      },
+      {
+        "productId": 3,
+        "quantity": 2
+      }
+    ],
+    "orderDate": "2025-09-24T10:28:51.074Z",
+    "status": "Placed"
+  },
+  {
+    "id": 2,
+    "firstName": "dfgsd",
+    "lastName": "sdfg",
+    "address": "sdfg",
+    "items": [
+      {
+        "productId": 2,
+        "quantity": 4
+      }
+    ],
+    "orderDate": "2025-09-24T10:42:08.430Z",
+    "status": "Placed"
+  },
+  {
+    "id": 3,
+    "firstName": "sadf",
+    "lastName": "sdf",
+    "address": "sdf",
+    "items": [
+      {
+        "productId": 1,
+        "ProductName": "Laptop",
+        "quantity": 3
+      }
+    ],
+    "orderDate": "2025-09-24T11:06:02.417Z",
+    "status": "Placed"
+  }
+]
